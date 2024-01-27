@@ -1,0 +1,41 @@
+﻿  block.c
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(69,13): warning C4244: '=': 'double'에서 'SHORT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(70,13): warning C4244: '=': 'double'에서 'SHORT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(95,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(161,5): warning C4013: 'check_clear'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(193,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(428,17): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(429,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(464,17): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(465,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(500,17): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(501,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(536,17): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(537,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(572,17): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(573,22): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(739,21): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(740,26): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(984,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(985,18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1031,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1032,18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1046,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1087,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1088,18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1097,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1098,18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1210,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1217,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1253,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1254,19): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1275,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1276,19): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1047,59): warning C4101: 'newx' :참조되지 않은 지역 변수입니다.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1047,53): warning C4101: 'oldy' :참조되지 않은 지역 변수입니다.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1047,65): warning C4101: 'newy' :참조되지 않은 지역 변수입니다.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1047,24): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1047,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1047,15): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+C:\Users\wjsdk\OneDrive\바탕 화면\game\game\block.c(1047,47): warning C4101: 'oldx' :참조되지 않은 지역 변수입니다.
+  game.vcxproj -> C:\Users\wjsdk\OneDrive\바탕 화면\game\x64\Debug\game.exe
